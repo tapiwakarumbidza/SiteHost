@@ -1,0 +1,12 @@
+{
+  "name": "sitehost-recruitment",
+  "version": "1.0.0",
+  "description": "SiteHost Recruitment Challenge",
+  "main": "challenge.js",
+  "scripts": {
+    "start": "node challenge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
